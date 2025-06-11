@@ -1,0 +1,22 @@
+{
+  "name": "frontend-tronix",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "shadcn-ui": "^1.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.6",
+    "tailwindcss": "^3.2.4",
+    "vite": "^5.0.0"
+  }
+}
